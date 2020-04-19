@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8694dfaaf21f438ec4c58f5f378ba, type: 3}
+  m_Name: A6. L-a speriat
+  m_EditorClassIdentifier: 
+  storyText: 'Zombie se pisa pe el de frica si o ia la fuga, acum toti te stiu de
+    jupan si nebun.
+
+
+    1. Ion castiga jocul dar umanitatea pula.'
+  nextStates: []

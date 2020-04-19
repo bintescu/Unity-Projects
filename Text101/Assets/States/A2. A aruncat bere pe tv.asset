@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8694dfaaf21f438ec4c58f5f378ba, type: 3}
+  m_Name: A2. A aruncat bere pe tv
+  m_EditorClassIdentifier: 
+  storyText: "Arunca bere pe TV si isi continua jocul pe consola..\r\nAudienta se
+    uita ciudat la scena si incepe sa arunce cu rosii ca era de la Microsoft.. si
+    cu Bill Gates cu astia..\n\n1. Ion ragaie la audienta\r\n2. Ion scuipa la audienta\r\n3.
+    Ion injura la audienta\r\n4. Ion face o reveren\u021B\u0103 audien\u021Bei."
+  nextStates: []

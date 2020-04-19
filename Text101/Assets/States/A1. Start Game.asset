@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8694dfaaf21f438ec4c58f5f378ba, type: 3}
+  m_Name: A1. Start Game
+  m_EditorClassIdentifier: 
+  storyText: "   Virusul a luat amploare, zilnic sute de mii de oameni se transforma
+    in ceva animalic nerational ce cauta sa se hraneasca cu vieti umane.\n   Ion
+    sta pe canapea si bea bere jucandu-se pe consola ca in fiecare zi. Ion nu este
+    la curent cu situatia de afara, nemaiiesind din casa de cateva luni prinzand
+    scai la buric.Alegerile sunt urmatoarele:\n\n1. Iesi din casa, fugi in padure
+    si construieste-ti un adapost intr-o zona neaccesibila.\n\n2. Baricadeaza-te
+    in casa\n\n3. Arunca cu bere pe televizor.\n\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 84f980edb64c5a646a9293fd59c8987b, type: 2}
+  - {fileID: 11400000, guid: 213e5eb987314d744847f42db918e0c8, type: 2}
+  - {fileID: 11400000, guid: e6bf8223db210d543a4f6df8fda83ffc, type: 2}

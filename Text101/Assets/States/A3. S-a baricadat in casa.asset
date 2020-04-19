@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8694dfaaf21f438ec4c58f5f378ba, type: 3}
+  m_Name: A3. S-a baricadat in casa
+  m_EditorClassIdentifier: 
+  storyText: 'Incercand sa te baricadezi descoperi ca zombie astia are un punct slab
+    la ceafa langa alea si jos la femur. AI in spatele tau pusca lu tactu de vanatoare
+    ruginita si cateva cartuse indeajuns cat sa indepartezi zombie din zona sa ai
+    timp sa iti construiesti baricada.
+
+
+    1. Ia pusca si trage in zombie
+
+
+    2.
+    Sperie-l ( Buu, date-n mortii ma-tii)
+
+
+    3. Coboara in pivnita unde ai resurse
+    de mancare si d-astea si incuie-te acolo.
+
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 1aac342649b1c0b41883970f3e1583da, type: 2}
+  - {fileID: 11400000, guid: 92cc9469a89e83f4c904dc26c989534c, type: 2}
+  - {fileID: 11400000, guid: ce9064b59e6d045439a35fae7843fc75, type: 2}

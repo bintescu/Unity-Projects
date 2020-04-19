@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db8694dfaaf21f438ec4c58f5f378ba, type: 3}
+  m_Name: A7. Coboara
+  m_EditorClassIdentifier: 
+  storyText: 'Cobori in pivnita bravo, dar cat mortii ma-tii mai stai dupa o saptaman
+    ca ramai fara mancare..
+
+    Hai macar sapa pe sub pivnita ceva dute-n China.
+
+
+    1.
+    Game over ca de aici poate sa se lungeasca si imi e lene.'
+  nextStates: []
